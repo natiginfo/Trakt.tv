@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trakt.tv</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+
+</resources>
